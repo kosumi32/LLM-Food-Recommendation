@@ -1,0 +1,3 @@
+# Ignore the .env file to protect sensitive data
+geminiAPI.env
+.ipynb_checkpoints
